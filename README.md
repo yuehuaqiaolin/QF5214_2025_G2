@@ -1,4 +1,5 @@
 Automated Data Pipeline for Financial Risk Monitoring
+
 （一）项目简介
 本项目旨在构建一个自动化的数据管道，用于金融风险监控。该系统通过高频股指价格数据实时评估市场风险，并通过计算风险指标（如VaR和ES）进行风险预警。系统利用Kafka进行数据流处理，自动执行计算任务并生成可视化报告。
 
